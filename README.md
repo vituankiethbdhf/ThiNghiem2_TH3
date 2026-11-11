@@ -100,7 +100,8 @@ Bài thực hành gồm hai chương trình:
 Đã xây dựng mã nguồn cho cả Transmitter và Receiver. Đã kiểm tra quá trình khởi tạo riêng từng chương trình. Tuy nhiên, hai project Wokwi riêng biệt không trao đổi ESP-NOW trực tiếp được trong môi trường mô phỏng đã sử dụng, nên chưa xác nhận được truyền nhận dữ liệu đầu cuối.
 
 **Minh chứng:** ảnh khởi động riêng của:
-reciver https://drive.google.com/file/d/1fUHHQNDQtVTW_kahVQ8p1VKh65fpZPQo/view?usp=sharing
+
+Reciver https://drive.google.com/file/d/1fUHHQNDQtVTW_kahVQ8p1VKh65fpZPQo/view?usp=sharing
 
 Transmitter  https://drive.google.com/file/d/1MIncOLXEsTXKat-SSCrAkWk9-93nGw7h/view?usp=sharing
 
