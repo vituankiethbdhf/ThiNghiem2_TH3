@@ -101,6 +101,7 @@ Bài thực hành gồm hai chương trình:
 
 **Minh chứng:** ảnh khởi động riêng của Transmitter, Receiver.
 reciver     :   https://drive.google.com/file/d/1fUHHQNDQtVTW_kahVQ8p1VKh65fpZPQo/view?usp=sharing
+
 Transmitter :  https://drive.google.com/file/d/1MIncOLXEsTXKat-SSCrAkWk9-93nGw7h/view?usp=sharing
 
 ---
